@@ -11,6 +11,8 @@
       color: #000000;
       padding: 20px;
       border-radius: 15px;
+      width:50%;
+      display:flex; 
     }
     
     h1 {
@@ -27,11 +29,14 @@
     nav ul li {
       display: inline;
       margin-right: 10px;
+      max-width:800px;
     }
     
     nav ul li a {
       color: #0f5542;
       text-decoration: none;
+      width:50%;
+      max-width:800px;
     }
     
     .active {
@@ -43,6 +48,8 @@
       padding: 40px;
       background-color: #a8bdfd;
       border-radius: 15px;
+      width:50%;
+      max-width:800px;
     }
     
     #about img {
@@ -77,20 +84,26 @@
     /* Contact Section Styles */
     #contact {
       padding: 40px;
+      padding-left:100px;
       background-color: #85eff4;
-      border-radius: 15px;    
+      border-radius: 15px; 
+      width:50%; 
+      max-width:800px;
     }
     
     #contact-form label {
       display: block;
       margin-bottom: 5px;
+      font-weight: 800;
+      font-style: oblique;
     }
     
     #contact-form input,
     #contact-form textarea {
-      width: 100%;
+      width: 50%;
       padding: 5px;
       margin-bottom: 10px;
+      border-radius:10px;
     }
     
     #contact-form button {
@@ -99,17 +112,21 @@
       color: #fff;
       border: none;
       cursor: pointer;
+      width:50%;
     }
     
     /* Resume Section Styles */
     #resume {
       padding: 40px;
       background-color: #fff;
+      width:50%;
     }
     
     #resume a {
       display: inline-block;
       margin-bottom: 10px;
+      width:50%;
+      display:flex; 
     }
     
     
