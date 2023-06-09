@@ -1,5 +1,5 @@
 [BARIEKMAN - resume.docx](https://github.com/mcbariekman/bariekman-portfolio/files/11703042/BARIEKMAN.-.resume.docx)
-[BARIEKMAN - cover letter.docx](https://github.com/mcbariekman/bariekman-portfolio/files/11703049/BARIEKMAN.-.cover.letter.docx)
+
 # Web Developer Portfolio
 
 A portfolio to showcase a developer's progress and achievements, as well as their work and resume. 
