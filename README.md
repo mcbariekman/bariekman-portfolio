@@ -1,6 +1,8 @@
 # Web Developer Portfolio
 
-This is a single-page application portfolio for a web developer. It showcases the developer's work, provides information about the developer, and allows visitors to contact the developer.
+A portfolio to showcase a developer's progress and achievements, as well as their work and resume. 
+
+> Please see the bottom of this readme for contact information, or simply view my live portfolio [here](https://mcbariekman.github.io/bariekman-portfolio/).
 
 ## Features
 

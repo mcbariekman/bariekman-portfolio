@@ -1,9 +1,9 @@
- body {
+    body {
       background-color: #0f5542;
       font-family: Arial, sans-serif;
       margin-left:30%;
       padding: 15px;
-      flex::content
+      flex:content;
     }
     
     /* Header Styles */
