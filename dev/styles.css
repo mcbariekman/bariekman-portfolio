@@ -72,17 +72,22 @@
       margin-bottom: 20px;
     }
     
-    .project img {
-      max-width: 100%;
-      height: auto;
-    }
-    
     .project-details h3 {
       margin: 10px 0;
     }
     
     .project-details p {
       margin: 0;
+    }
+
+    #sundae {
+        width:100px;
+        height:100px;
+    }
+
+    #click {
+        width:100px;
+        height:100px;
     }
     
     /* Contact Section Styles */
