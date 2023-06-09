@@ -1,65 +1,69 @@
-<header>
-  <h1>Web Developer Portfolio</h1>
-  <nav>
-    <ul>
-      <li class="active"><a href="#about">About Me</a></li>
-      <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#resume">Resume</a></li>
-    </ul>
-  </nav>
-</header>
-4<section id="about">
-  <h2>About Me</h2>
-  <img src="images/avatar.jpg" alt="Developer Avatar">
-  <p>Short bio about the developer.</p>
-</section>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Web Developer Portfolio</title>
+  <link rel="stylesheet" href="/dev/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Web Developer Portfolio</h1>
+    <nav>
+      <ul>
+        <li class="active"><a href="#about">About Me</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#resume">Resume</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<section id="portfolio">
-  <h2>Portfolio</h2>
-  <div class="project">
-    <img src="images/project1.jpg" alt="Project 1">
-    <div class="project-details">
-      <h3>Project 1 Title</h3>
-      <p>Description of Project 1.</p>
-      <a href="project1-link" target="_blank">View Project</a>
-      <a href="project1-github-link" target="_blank">GitHub Repository</a>
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="images/avatar.jpg" alt="Developer Avatar">
+    <p>Short bio about the developer.</p>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <div class="project">
+      <img src="images/project1.jpg" alt="Project 1">
+      <div class="project-details">
+        <h3>Project 1 Title</h3>
+        <p>Description of Project 1.</p>
+        <a href="project1-link" target="_blank">View Project</a>
+        <a href="project1-github-link" target="_blank">GitHub Repository</a>
+      </div>
     </div>
-  </div>
-  <!-- Repeat the above project structure for other projects -->
-</section>
+    <!-- Repeat the above project structure for other projects -->
+  </section>
 
-<section id="contact">
-  <h2>Contact</h2>
-  <form id="contact-form">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required>
-    
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
-    
-    <label for="message">Message:</label>
-    <textarea id="message" name="message" required></textarea>
-    
-    <button type="submit">Send Message</button>
-  </form>
-</section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <form id="contact-form">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" required></textarea>
+      
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
 
-<section id="resume">
-  <h2>Resume</h2>
-  <a href="resume/resume.pdf" target="_blank">Download Resume</a>
-  <ul class="proficiencies">
-    <li>Proficiency 1</li>
-    <li>Proficiency 2</li>
-    <li>Proficiency 3</li>
-    <!-- Add more proficiencies as needed -->
-  </ul>
-</section>
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="resume/resume.pdf" target="_blank">Download Resume</a>
+    <ul class="proficiencies">
+      <li>Proficiency 1</li>
+      <li>Proficiency 2</li>
+      <li>Proficiency 3</li>
+    </ul>
+  </section>
+</body>
 
-<footer>
-  <ul class="social-links">
-    <li><a href="github-link" target="_blank"><i class="fab fa-github"></i></a></li>
-    <li><a href="linkedin-link" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-    <li><a href="third-platform-link" target="_blank"><i class="fab fa-stack-overflow"></i></a></li>
-  </ul>
-</footer>
+<script src="/dev/script.js"></script>
+</html>
