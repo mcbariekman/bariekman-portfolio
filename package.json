@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "react": "^18.2.0"
-  }
+  },
+  "name": "bariekman-portfolio",
+  "description": "A portfolio to showcase a developer's progress and achievements, as well as their work and resume.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
