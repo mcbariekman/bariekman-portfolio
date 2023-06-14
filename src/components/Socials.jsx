@@ -4,7 +4,7 @@ import { SlSocialGithub} from 'react-icons/sl';
 import { TbMailForward } from 'react-icons/tb';
 import { BsPersonVcard } from 'react-icons/bs';
 
-const SocialLinks = () => {
+const Socials = () => {
 
     const links = [
         {

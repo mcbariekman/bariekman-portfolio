@@ -1,14 +1,14 @@
 import React from 'react';
 
-import html from '../assets/html.png';
-import css from '../assets/css.png';
-import javascript from '../assets/javascript.png';
-import node from '../assets/node.png';
-import react from '../assets/react.png';
-import tailwind from '../assets/tailwind.png';
-import mongoDB from '../assets/mongoDB.png';
-import github from '../assets/github.png';
-import expressJS from '../assets/expressjs.jpg'
+import html from '../assets/clickforflicks.png';
+import css from '../assets/clickforflicks.png';
+import javascript from '../assets/clickforflicks.png';
+import node from '../assets/clickforflicks.png';
+import react from '../assets/clickforflicks.png';
+import tailwind from '../assets/clickforflicks.png';
+import mongoDB from '../assets/clickforflicks.png';
+import github from '../assets/clickforflicks.png';
+import expressJS from '../assets/clickforflicks.png'
 
 
 
@@ -72,7 +72,7 @@ const skills =[
 
 ]
 
-  return (
+return (
     <div name='skills' className='h-130vh sm:h-screen font-default text-base bg-gradient-to-b from-gray-800 to to-black w-full'>
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
             <div>
@@ -92,7 +92,7 @@ const skills =[
         </div>
         </div>
     </div>
-  )
+)
 }
 
 export default Skills

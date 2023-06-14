@@ -5,50 +5,18 @@ import React from 'react';
 // import reactParallax from '../assets/portfolio/reactParallax.jpg';
 // import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
 // import reactWeather from '../assets/portfolio/reactWeather.jpg';
-import Techtopia from '../assets/portfolio/Techtopia.png';
-import WeatherApp from '../assets/portfolio/WeatherApp.png';
-import CrimeTracker from '../assets/portfolio/CrimeTracker.png';
-import JobstacleCourse from '../assets/portfolio/JobstacleCourse.png';
-import NoteTaker from '../assets/portfolio/NoteTaker.png';
-import SocialAPI from '../assets/portfolio/SocialAPI.png';
-import PokeTrader from '../assets/portfolio/PokeTrader.png';
+// import Techtopia from '../assets/portfolio/Techtopia.png';
+// import WeatherApp from '../assets/portfolio/WeatherApp.png';
+// import CrimeTracker from '../assets/portfolio/CrimeTracker.png';
+// import JobstacleCourse from '../assets/portfolio/JobstacleCourse.png';
+// import NoteTaker from '../assets/portfolio/NoteTaker.png';
+// import SocialAPI from '../assets/portfolio/SocialAPI.png';
+import PokeTrader from '../assets/clickforflicks.png';
 
 
 const Portfolio = () => {
 
     const portfolios = [
-        {
-            id: 1,
-            src: Techtopia,
-            demoUrl:'https://salty-escarpment-75957.herokuapp.com/',
-            codeUrl: 'https://github.com/lingeorge88/Tech_topia_MVC',
-            title: "TechTopia",
-            description: 'A tech blog utilizing NodeJS, ExpressJS and the Sequelize Package'
-        },
-        {
-            id: 2,
-            src: --,
-            demoUrl:'--',
-            codeUrl:'--',
-            title: '--',
-            description: "--"
-        },
-        {
-            id: 3,
-            src: --,
-            demoUrl:'--',
-            codeUrl:'--',
-            title: "--",
-            description: "--"
-        },
-        {
-            id: 4,
-            src: --,
-            demoUrl:'--',
-            codeUrl:'--',
-            title: "--",
-            description:'--'
-        },
         {
             id: 5,
             src: PokeTrader,
@@ -56,14 +24,6 @@ const Portfolio = () => {
             codeUrl:'https://github.com/lingeorge88/Poke_Trader',
             title: "Poké Trader",
             description: "A full stack MERN application that allows Pokemon TCG enthusiasts to connect and trade their card collections with others"
-        },
-        {
-            id: 6,
-            src: --,
-            demoUrl:'--',
-            codeUrl:'--',
-            title: '--',
-            description:'--'
         },
     ]
     function handleDemoClick(demoUrl) {

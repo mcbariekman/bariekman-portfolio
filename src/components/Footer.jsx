@@ -10,30 +10,30 @@ const Footer = () => {
             child : (
                 <RxLinkedinLogo size={25}/>
             ),
-            href:'https://www.linkedin.com/in/george-lin-504b57250/',
+            href:'https://www.linkedin.com/in/madilyn-bariekman-842437159//',
             
         },
         {
             id: 2,
             
             child: (
-                 <SlSocialGithub size={25}/>
+            <SlSocialGithub size={25}/>
             ),
-            href:'https://github.com/lingeorge88',
+            href:'https://github.com/mcbariekman',
         },
         {
             id: 3,
             child: (
                 <SlSocialYoutube size={25}/>
             ),
-            href: 'https://www.youtube.com/@georgelin5569/'
+            href: 'https://www.youtube.com/@https://www.youtube.com/channel/UC-onIiTDo89NHhXNbfXrGwQ/'
         }
     ]
 
     return (
         <div name="footer" className="flex text-bold text-base w-full h-20 bg-gray-900 text-white justify-center items-center">
           <div>
-            <h2 className="text-2xl">© George Lin 2023</h2>
+            <h2 className="text-2xl">©  2023</h2>
           </div>
           <div className="flex ml-4">
             {links.map((link) => (
