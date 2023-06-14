@@ -22,7 +22,7 @@ A portfolio to showcase a developer's progress and achievements, as well as thei
 - HTML
 - CSS
 - JavaScript
-- React (if applicable)
+- React 
 
 ## Getting Started
 
