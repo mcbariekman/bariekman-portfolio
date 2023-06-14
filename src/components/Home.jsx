@@ -1,7 +1,8 @@
 import React from 'react';
 import HeroImage from '../assets/clickforflicks.png';
-import { TiArrowRightOutline}from "react-icons/ti";
+import { TiArrowRightOutline } from "react-icons/ti";
 import { Link } from 'react-scroll';
+import './src/index.css'; 
 
 const Home = () => {
   return (
