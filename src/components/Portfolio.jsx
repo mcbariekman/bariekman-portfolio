@@ -27,27 +27,27 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: WeatherApp,
-            demoUrl:'https://lingeorge88.github.io/5-day-weather-forecast/',
-            codeUrl:'https://github.com/lingeorge88/5-day-weather-forecast',
-            title: '5 Day Weather Forecast',
-            description: "A 5-day weather forecast application utilizing HTML, CSS, Bootstrap, Javascript and the OpenWeatherMap API"
+            src: --,
+            demoUrl:'--',
+            codeUrl:'--',
+            title: '--',
+            description: "--"
         },
         {
             id: 3,
-            src: CrimeTracker,
-            demoUrl:'https://jgerona.github.io/crime-tracker/',
-            codeUrl:'https://github.com/jgerona/crime-tracker',
-            title: "Crime Tracker",
-            description: "A crime tracker tool utilizing the Crime Data by Zipcode API, Zippopotam.us API and Bulma CSS"
+            src: --,
+            demoUrl:'--',
+            codeUrl:'--',
+            title: "--",
+            description: "--"
         },
         {
             id: 4,
-            src: JobstacleCourse,
-            demoUrl:'https://jobstacle-course.herokuapp.com/',
-            codeUrl:'https://github.com/chewytaro/Jobstacle-course',
-            title: "Jobstacle Course",
-            description:'An application tracking tool utilizing the HandlebarsExpressJS package.  Databse queries performed by MySQL and Sequlize'
+            src: --,
+            demoUrl:'--',
+            codeUrl:'--',
+            title: "--",
+            description:'--'
         },
         {
             id: 5,
@@ -59,11 +59,11 @@ const Portfolio = () => {
         },
         {
             id: 6,
-            src: SocialAPI,
-            demoUrl:'https://github.com/lingeorge88/SocialMedia_API_NoSQL',
-            codeUrl:'https://github.com/lingeorge88/SocialMedia_API_NoSQL',
-            title: 'MongoConnectFriends',
-            description:'A REST API built with MongoDB and the Mongoose Express Package'
+            src: --,
+            demoUrl:'--',
+            codeUrl:'--',
+            title: '--',
+            description:'--'
         },
     ]
     function handleDemoClick(demoUrl) {
