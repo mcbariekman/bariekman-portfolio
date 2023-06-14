@@ -9,11 +9,11 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-purple-500'>About</p>
             </div>
             <p className='text-xl mt-20'>
-            Hello! Welcome to my portfolio page! My name is George, I am a web developer who recently graduated from a coding bootcamp with a degree in Medical Laboratory Science with 3 years of experience in the field. The bootcamp was an incredible experience where I learned incredible amounts of skill and knolwedge in a short span of time. I look forward to learning continuously in my coding journey! I am currently seeking an associate role with a focus on front-end development.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius consectetur tellus, et fermentum risus facilisis sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ultrices cursus est, non tempus sem congue vel. Vivamus consectetur, purus sed feugiat semper, dui odio elementum nunc, at euismod felis mauris sed ante. Proin et laoreet nisi. Nulla non rhoncus sem, vitae sagittis metus. Fusce pellentesque ipsum et tellus ultricies, at tempus nibh ullamcorper.
             </p>
             <br />
             <p className='text-xl'>
-            Being a Medical Laboratory Scientist for the past several years has helped prepare me for what is required and useful in web developement. Working in a high-volume reference laboratory in a 600 bed hospital has helped me develop excellent attention-to-detail skills while working efficiently to ensure targeted turnaround times for patient results.  I look forward to bringing my skills into the field of web development and coding!  I hope to obtain AWS certification following the completion of my bootcamp and dive into machine-learning by learning Python.
+            Curabitur pretium iaculis quam in eleifend. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla convallis tortor in arcu viverra elementum. Aenean malesuada cursus diam. Morbi vitae interdum massa. Sed consectetur luctus ipsum, sed efficitur odio efficitur vitae. Fusce rutrum libero ac est ultrices, et viverra quam sollicitudin. Donec nec feugiat nisi, vitae molestie nunc. In mattis urna id metus feugiat, eu suscipit neque tristique. Cras sagittis elit sed lacus dignissim, sit amet dignissim lacus sagittis. Phasellus quis nisl quis nulla hendrerit facilisis a in diam. Pellentesque consequat erat in justo maximus feugiat. Nunc venenatis auctor sapien sed gravida. Sed eu odio interdum, suscipit purus eget, posuere diam. Etiam auctor felis eu augue varius, non venenatis sapien ultricies.
 
             </p>
             </div>
